@@ -1,0 +1,7 @@
+##setup backoffice##
+
+ckeditor/ckupload.php
+fileman/conf.json
+weadmin/lib/config.php
+weadmin/lib/session.php
+weadmin/js/scriptCoreWeweb.js

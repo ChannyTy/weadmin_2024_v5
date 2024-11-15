@@ -1,0 +1,6 @@
+.checkbox-control .btn{display: inline-block; cursor: pointer;}
+.checkbox-control .btn:hover{border:none;}
+.checkbox-control input[type="radio"]{position: absolute; visibility: hidden;}
+.checkbox-control input[type="radio"] ~ .icon{display: block; text-align: center; width: 30px; height: 30px; border-radius: 50%; position: relative; overflow: hidden;}
+.checkbox-control input[type="radio"] ~ .icon .fa{color: rgba(0,0,0,0); position: relative; top: 7px;}
+.checkbox-control input[type="radio"]:checked ~ .icon .fa{color: rgba(0,0,0,0.4); font-size: 16px;}

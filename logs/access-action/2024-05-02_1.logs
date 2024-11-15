@@ -1,0 +1,13 @@
+View|:|506c71700db204610757fd0d0119134f|:|3|:|http://localhost:8080/weadmin_2024_v5/weadmin/mod_site/loadSet.php|:|set|:|70|:||:|1|:|admin admin|:|192.168.65.1|:|2024-05-02 13:45:59
+Update Group|:|506c71700db204610757fd0d0119134f|:|3|:|http://localhost:8080/weadmin_2024_v5/weadmin/mod_site/updateSet.php|:|set|:|70|:|update|:|1|:|admin admin|:|192.168.65.1|:|2024-05-02 13:46:56
+View|:|506c71700db204610757fd0d0119134f|:|3|:|http://localhost:8080/weadmin_2024_v5/weadmin/mod_site/loadSet.php|:|set|:|70|:||:|1|:|admin admin|:|192.168.65.1|:|2024-05-02 13:46:56
+Update Group|:|506c71700db204610757fd0d0119134f|:|3|:|http://localhost:8080/weadmin_2024_v5/weadmin/mod_site/updateSet.php|:|set|:|70|:|update|:|1|:|admin admin|:|192.168.65.1|:|2024-05-02 13:48:17
+View|:|506c71700db204610757fd0d0119134f|:|3|:|http://localhost:8080/weadmin_2024_v5/weadmin/mod_site/loadSet.php|:|set|:|70|:||:|1|:|admin admin|:|192.168.65.1|:|2024-05-02 13:48:17
+View|:|506c71700db204610757fd0d0119134f|:|3|:|http://localhost:8080/weadmin_2024_v5/weadmin/mod_site/loadSet.php|:|set|:|70|:||:|1|:|admin admin|:|192.168.65.1|:|2024-05-02 13:48:30
+View|:|506c71700db204610757fd0d0119134f|:|3|:|http://localhost:8080/weadmin_2024_v5/weadmin/mod_site/loadSet.php|:|set|:|70|:||:|1|:|admin admin|:|192.168.65.1|:|2024-05-02 13:49:14
+View|:|506c71700db204610757fd0d0119134f|:|3|:|http://localhost:8080/weadmin_2024_v5/weadmin/mod_site/loadSet.php|:|set|:|70|:||:|1|:|admin admin|:|192.168.65.1|:|2024-05-02 13:49:23
+View|:|506c71700db204610757fd0d0119134f|:|3|:|http://localhost:8080/weadmin_2024_v5/weadmin/mod_site/loadSet.php|:|set|:|70|:||:|1|:|admin admin|:|192.168.65.1|:|2024-05-02 13:49:39
+View|:|506c71700db204610757fd0d0119134f|:|3|:|http://localhost:8080/weadmin_2024_v5/weadmin/mod_site/loadSet.php|:|set|:|70|:||:|1|:|admin admin|:|192.168.65.1|:|2024-05-02 13:49:44
+Insert|:|506c71700db204610757fd0d0119134f|:|3|:|http://localhost:8080/weadmin_2024_v5/weadmin/mod_nopic/insertContant.php|:|nopic|:|69|:|insert|:|1|:|admin admin|:|192.168.65.1|:|2024-05-02 13:49:58
+Delete|:|506c71700db204610757fd0d0119134f|:|3|:|http://localhost:8080/weadmin_2024_v5/weadmin/mod_nopic/deleteContant.php|:|nopic|:|69|:||:|1|:|admin admin|:|192.168.65.1|:|2024-05-02 13:50:01
+Insert|:|506c71700db204610757fd0d0119134f|:|3|:|http://localhost:8080/weadmin_2024_v5/weadmin/mod_nopic/insertContant.php|:|nopic|:|69|:|insert|:|1|:|admin admin|:|192.168.65.1|:|2024-05-02 13:50:06

@@ -1,0 +1,23 @@
+
+CREATE TABLE `md_tgp` (
+  `md_tgp_id` int(11) NOT NULL auto_increment,
+  `md_tgp_masterkey` varchar(20) NOT NULL,
+  `md_tgp_language` varchar(50) NOT NULL,
+  `md_tgp_subject` text NOT NULL,
+  `md_tgp_pic` varchar(50) NOT NULL,
+  `md_tgp_url` text NOT NULL,
+  `md_tgp_crebyid` int(11) NOT NULL default '0',
+  `md_tgp_creby` varchar(100) NOT NULL,
+  `md_tgp_credate` datetime NOT NULL default '0000-00-00 00:00:00',
+  `md_tgp_lastdate` datetime NOT NULL default '0000-00-00 00:00:00',
+  `md_tgp_status` varchar(50) NOT NULL,
+  `md_tgp_order` int(11) NOT NULL default '0',
+  `md_tgp_sdate` datetime NOT NULL default '0000-00-00 00:00:00',
+  `md_tgp_edate` datetime NOT NULL default '0000-00-00 00:00:00',
+  `md_tgp_target` int(11) NOT NULL,
+  `md_tgp_lastbyid` int(11) NOT NULL,
+  `md_tgp_lastby` varchar(200) NOT NULL,
+  PRIMARY KEY  (`md_tgp_id`),
+  UNIQUE KEY `md_tgp_id` (`md_tgp_id`),
+  KEY `md_tgp_id_2` (`md_tgp_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8;

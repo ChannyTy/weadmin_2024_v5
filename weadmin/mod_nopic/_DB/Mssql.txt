@@ -1,0 +1,33 @@
+/****** Object:  Table [dbo].[md_tgp]    Script Date: 09/30/2015 15:39:01 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[md_tgp](
+	[md_tgp_id] [int] IDENTITY(1,1) NOT NULL,
+	[md_tgp_masterkey] [varchar](20) NULL,
+	[md_tgp_language] [varchar](50) NULL,
+	[md_tgp_subject] [text] NULL,
+	[md_tgp_pic] [varchar](50) NULL,
+	[md_tgp_url] [text] NULL,
+	[md_tgp_crebyid] [int] NULL,
+	[md_tgp_creby] [varchar](100) NULL,
+	[md_tgp_credate] [datetime] NULL,
+	[md_tgp_lastdate] [datetime] NULL,
+	[md_tgp_status] [varchar](50) NULL,
+	[md_tgp_order] [int] NULL,
+	[md_tgp_sdate] [datetime] NULL,
+	[md_tgp_edate] [datetime] NULL,
+	[md_tgp_target] [int] NULL,
+	[md_tgp_lastbyid] [int] NULL,
+	[md_tgp_lastby] [varchar](200) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[md_tgp_id] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+SET ANSI_PADDING OFF
+GO

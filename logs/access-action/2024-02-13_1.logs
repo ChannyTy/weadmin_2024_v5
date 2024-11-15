@@ -1,0 +1,86 @@
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_site/loadSet.php|:|set|:|57|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 09:48:34
+Update Group|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_site/updateSet.php|:|set|:|57|:|update|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 09:50:02
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_site/loadSet.php|:|set|:|57|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 09:50:02
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_site/loadSet.php|:|set|:|57|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 09:51:17
+Insert|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_intro/insertContant.php|:|int|:|58|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 10:01:13
+Insert|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_topgraphic/insertContant.php|:|tg|:|23|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 10:01:33
+Insert|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_topgraphic/insertContant.php|:|tg|:|23|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 10:01:39
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_topgraphic/viewContant.php|:|tg|:|23|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 10:01:46
+Insert Group|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/insertGroup.php|:|nw|:|61|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 12:22:30
+Insert Group|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/insertGroup.php|:|nw|:|61|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 12:22:48
+Insert Group|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/insertGroup.php|:|nw|:|61|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 12:22:57
+Insert Group|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/insertGroup.php|:|nw|:|61|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 12:23:07
+View Group|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewGroup.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 12:24:17
+View Group|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewGroup.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 12:24:51
+View Group|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewGroup.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 12:25:06
+View Group|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewGroup.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 12:25:12
+View Group|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewGroup.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 12:25:54
+View Group|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewGroup.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 12:25:57
+Insert|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/insertContant.php|:|nw|:|61|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 13:51:13
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 13:51:17
+Update|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/updateContant.php|:|nw|:|61|:|update|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:36:35
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:37:11
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:54:16
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:54:44
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:55:16
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:55:19
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:55:22
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:55:53
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:56:24
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:56:47
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:57:00
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:57:31
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:57:43
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:58:25
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:59:09
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 14:59:53
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:00:20
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:00:36
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:00:39
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:00:54
+Delete|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/deleteContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:01:12
+Insert|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/insertContant.php|:|nw|:|61|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:01:38
+Update|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/updateContant.php|:|nw|:|61|:|update|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:05:15
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:05:17
+Update Group|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/updateGroup.php|:|nw|:|61|:|update|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:06:23
+Update|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/updateContant.php|:|nw|:|61|:|update|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:06:35
+Sort|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/topUpdateContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:13:07
+Update|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/updateContant.php|:|nw|:|61|:|update|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:17:53
+Update|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/updateContant.php|:|nw|:|61|:|update|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:18:09
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:18:11
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:18:17
+Delete|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/deleteContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:18:42
+Insert|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/insertContant.php|:|nw|:|61|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:19:48
+Update|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/updateContant.php|:|nw|:|61|:|update|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:20:02
+Delete|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/deleteContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:20:34
+Insert|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/insertContant.php|:|nw|:|61|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:23:06
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:23:11
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_cmsg/viewContant.php|:|nw|:|61|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:25:35
+Insert|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/insertContant.php|:|ab|:|60|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:26:31
+Insert|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/insertContant.php|:|ab|:|60|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:26:53
+Delete|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/deleteContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:28:10
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/viewContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:28:26
+Delete|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/deleteContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:39:37
+Update|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/updateContant.php|:|ab|:|60|:|update|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:43:31
+Delete|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/deleteContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:49:41
+Update|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/updateContant.php|:|ab|:|60|:|update|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:49:54
+Update|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/updateContant.php|:|ab|:|60|:|update|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:50:13
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/viewContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:50:15
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/viewContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:50:23
+Update|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/updateContant.php|:|ab|:|60|:|update|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:50:30
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/viewContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:50:39
+Delete|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/deleteContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:50:42
+Insert|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/insertContant.php|:|ab|:|60|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:51:14
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/viewContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:51:20
+Insert|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/insertContant.php|:|ab|:|60|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:51:35
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/viewContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:51:37
+Sort|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/topUpdateContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:51:43
+Sort|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/sortingContant.php|:|ab|:|60|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:51:47
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/viewContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:53:34
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/viewContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:56:03
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/viewContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:56:26
+Delete|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/deleteContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:56:34
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/viewContant.php|:|ab|:|60|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:56:36
+Insert|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/insertContant.php|:|ab|:|60|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:57:23
+Insert|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_ablist/insertContant.php|:|ab|:|60|:|insert|:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:57:34
+View|:|55de21c2488b67f3298002a29ef7efc8|:|3|:|http://localhost:8080/dev24-dmsc/weadmin/mod_lang_front/viewContant.php|:|site|:|31|:||:|1|:|dmscadmin dmscadmin|:|192.168.65.1|:|2024-02-13 15:57:50
